@@ -94,7 +94,7 @@ body {
 }
 
 .container {
-  padding-top: 20px;
+  padding: 20px 0;
   display: -ms-grid;
   display: grid;
   -ms-grid-columns: (1fr)[4];
